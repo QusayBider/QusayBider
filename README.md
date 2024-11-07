@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @QusayBider
-- 👀 I’m interested in Programming languages
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me _ Email : "QusayBider@gmail.com"
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m @QusayBdier
+👀 I’m interested in programming languages
+🌱 Currently studying Computer Engineering at Birzeit University
+💻 Front-End Developer | Pursuing Full Stack Development
+📫 Email: QusayBider@gmail.com
+😄 Pronouns: ...
+⚡ Fun fact: ...
 
 <!---
 QusayBider/QusayBider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
